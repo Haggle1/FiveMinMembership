@@ -60,6 +60,5 @@ c:\users\dustin williams\Documents\Visual Studio 2010\Projects\FiveMinMebership\
 \\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\DotNetOpenAuth.AspNet.xml
 \\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\Microsoft.AspNet.Membership.OpenAuth.xml
 \\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\Microsoft.AspNet.FriendlyUrls.xml
-\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\obj\Debug\FiveMinMebership.csprojResolveAssemblyReference.cache
 \\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\obj\Debug\FiveMinMebership.dll
 \\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\obj\Debug\FiveMinMebership.pdb
