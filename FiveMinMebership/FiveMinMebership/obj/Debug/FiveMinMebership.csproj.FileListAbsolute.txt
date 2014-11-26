@@ -30,3 +30,36 @@ c:\users\dustin williams\Documents\Visual Studio 2010\Projects\FiveMinMebership\
 c:\users\dustin williams\Documents\Visual Studio 2010\Projects\FiveMinMebership\FiveMinMebership\bin\Microsoft.AspNet.FriendlyUrls.xml
 c:\users\dustin williams\Documents\Visual Studio 2010\Projects\FiveMinMebership\FiveMinMebership\obj\Debug\FiveMinMebership.dll
 c:\users\dustin williams\Documents\Visual Studio 2010\Projects\FiveMinMebership\FiveMinMebership\obj\Debug\FiveMinMebership.pdb
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\FiveMinMebership.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\FiveMinMebership.pdb
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\AspNet.ScriptManager.jQuery.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\DotNetOpenAuth.AspNet.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\DotNetOpenAuth.Core.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\DotNetOpenAuth.OAuth.Consumer.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\DotNetOpenAuth.OAuth.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\DotNetOpenAuth.OpenId.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\EntityFramework.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\Microsoft.ScriptManager.MSAjax.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\Microsoft.ScriptManager.WebForms.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\System.Web.Optimization.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\System.Web.Providers.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\WebGrease.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\DotNetOpenAuth.Core.xml
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\DotNetOpenAuth.OAuth.xml
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\DotNetOpenAuth.OAuth.Consumer.xml
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\DotNetOpenAuth.OpenId.xml
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\DotNetOpenAuth.AspNet.xml
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\obj\Debug\FiveMinMebership.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\obj\Debug\FiveMinMebership.dll
+\\vmware-host\Shared Folders\Desktop\GitHub\FiveMinMembership\FiveMinMebership\FiveMinMebership\obj\Debug\FiveMinMebership.pdb
